@@ -1,6 +1,6 @@
 ## About Me
 
-I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020.
+I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I am currently working in Ederlabs on privacy preserving learning.
 
 
 I am a proficient programmer in Java , Python and Javascript. My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. 
@@ -9,7 +9,7 @@ I am a proficient programmer in Java , Python and Javascript. My interests are i
 
 - Intern , Ederlabs (January 2020-Present)
 
-Working on privacy preserving machine learning
+Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) Intel SGX. Currently working on Differential Privacy. 
 
 - Freelance Web Developer
 
