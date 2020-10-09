@@ -10,13 +10,13 @@ My interests are in Machine Learning ,Data Privacy (Differential Privacy and Fed
 
 ## Experience
 
-**Intern , Ederlabs (January 2020-Present)**
+#### Intern , Ederlabs (January 2020-Present)**
 
 Currently working on Differential Privacy. 
 <br/>
 Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) Intel SGX. 
 
-**Freelance Web Developer**
+#### Freelance Web Developer**
 
 Worked on two frontend projects for two clients using AngularJS and bootstrap. 
 
@@ -24,25 +24,25 @@ Worked on two frontend projects for two clients using AngularJS and bootstrap.
 
 ## Open Source Contributions
 
-**PySyft**
+#### PySyft
 
 "A library for answering questions using data you cannot see"
 <br/>
 A framework for privacy-preserving deep learning using Pytorch and Tensorflow.
 
-I worked on Pytorch development.
+I worked on **Pytorch** development.
 Part of the Core team
 Contributed to Core PySyft Team
 
-**Deepgaze**
+#### Deepgaze
 
-Computer Vision library for human-computer interaction in Python
+Computer Vision library for human-computer interaction in **Python**
 I have refactored certain parts of the library for improved usability and wrote test cases to ensure accurate functionality. Ported library to Python 3.0.
 See project DeepGaze.
 <br/>
 <br/>
 ## Projects
-### Projects
+#### Projects
 
 ## Contact
 Contact me on kamathhrishi @ gmail 
