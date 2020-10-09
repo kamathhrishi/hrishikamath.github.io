@@ -15,7 +15,11 @@ Working on privacy preserving machine learning
 
 Worked on two frontend projects for two clients using AngularJS and bootstrap. 
 
-### Markdown
+## Open Source Contributions
+
+## Projects
+
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
