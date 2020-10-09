@@ -6,7 +6,6 @@ A proficient programmer in Java , Python and Javascript.
 <p style='text-align: justify;'>My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering.</p>
 <br/>
 <br/>
-<br/>
 ## Experience
 
 #### Intern , Ederlabs  (January 2020-Present)
@@ -31,7 +30,6 @@ Contributed to Core PySyft Team
 
 #### Deepgaze
 Computer Vision library for human-computer interaction in **Python**
-<br/>
 <br/>
 <p style='text-align: justify;'>
 I have refactored certain parts of the library for improved usability and wrote test cases to ensure accurate functionality. Ported library to Python 3.0.
