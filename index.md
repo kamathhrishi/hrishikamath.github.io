@@ -1,9 +1,9 @@
 <br/>
-I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I am currently working in Ederlabs on privacy preserving learning.
+<p style='text-align: justify;'>I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I am currently working in Ederlabs on privacy preserving learning.</p>
 
 A proficient programmer in Java , Python and Javascript. 
 <br/>
-My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. 
+<p style='text-align: justify;'>My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering.</p>
 <br/>
 <br/>
 <br/>
@@ -33,8 +33,9 @@ Contributed to Core PySyft Team
 Computer Vision library for human-computer interaction in **Python**
 <br/>
 <br/>
+<p style='text-align: justify;'>
 I have refactored certain parts of the library for improved usability and wrote test cases to ensure accurate functionality. Ported library to Python 3.0.
-See project DeepGaze.
+</p>
 <br/>
 <br/>
 ## Projects
