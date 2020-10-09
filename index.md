@@ -7,17 +7,17 @@ I am a proficient programmer in Java , Python and Javascript. My interests are i
 
 ## Experience
 
-- Intern , Ederlabs (January 2020-Present)
+###Intern , Ederlabs (January 2020-Present)
 
 Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) Intel SGX. Currently working on Differential Privacy. 
 
-- Freelance Web Developer
+###Freelance Web Developer
 
 Worked on two frontend projects for two clients using AngularJS and bootstrap. 
 
 ## Open Source Contributions
 
-- PySyft
+###PySyft
 
 "A library for answering questions using data you cannot see"
 A framework for privacy-preserving deep learning using Pytorch and Tensorflow.
@@ -26,7 +26,7 @@ I worked on Pytorch development.
 Part of the Core team
 Contributed to Core PySyft Team
 
-- Deepgaze 
+###Deepgaze 
 
 Computer Vision library for human-computer interaction in Python
 
