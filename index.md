@@ -38,7 +38,6 @@ Computer Vision library for human-computer interaction in **Python**
 <p style='text-align: justify;'>
 I have refactored certain parts of the library for improved usability and wrote test cases to ensure accurate functionality. Ported library to Python 3.0.
 </p>
-<br/>
 ## Projects
 
 For complete list of projects feel free to check my [Github Profile](https://github.com/kamathhrishi).
