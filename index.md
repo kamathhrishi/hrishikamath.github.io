@@ -4,8 +4,6 @@ I am an Undergraduate student at RV College of Engineering , Bangalore studying 
 A proficient programmer in Java , Python and Javascript. 
 <br/>
 My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. 
-
-<br/>
 <br/>
 
 ## Experience
@@ -16,9 +14,9 @@ Currently working on **Differential Privacy**.
 <br/>
 Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) **Intel SGX**. 
 
-#### Freelance Web Developer
+#### Freelance Web Developer (July-October 2018)
 
-Worked on two frontend projects for two clients using AngularJS and bootstrap. 
+Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
 
 <br/>
 
