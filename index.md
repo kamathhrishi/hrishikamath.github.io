@@ -32,6 +32,7 @@ I worked on **Pytorch** development.
 Part of the Core team
 Contributed to Core PySyft Team
 <br/>
+<br/>
 The experience helped me learn a lot of software engineering practices such as unit tests, code reviews, Git, writing clean and documented code.
 <br/>
 - Wrote use cases of Federated Learning for developing Word Embeddings from Private Data and demonstration on CIFAR10
