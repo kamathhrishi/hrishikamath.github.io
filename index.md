@@ -5,6 +5,7 @@ A proficient programmer in Java , Python and Javascript.
 <br/>
 My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. 
 <br/>
+<br/>
 
 ## Experience
 
@@ -19,7 +20,6 @@ Worked on privacy preserving machine learning using Trusted Execution Environmen
 Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
 
 <br/>
-
 ## Open Source Contributions
 
 #### PySyft
@@ -36,7 +36,6 @@ Computer Vision library for human-computer interaction in **Python**
 <br/>
 I have refactored certain parts of the library for improved usability and wrote test cases to ensure accurate functionality. Ported library to Python 3.0.
 See project DeepGaze.
-<br/>
 <br/>
 ## Projects
 #### Projects
