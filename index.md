@@ -6,17 +6,17 @@ I am an Undergraduate student at RV College of Engineering , Bangalore studying 
 
 A proficient programmer in Java , Python and Javascript. My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. 
 
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## Experience
 
 **Intern , Ederlabs (January 2020-Present)**
 
-Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) Intel SGX. Currently working on Differential Privacy. 
+Currently working on Differential Privacy. 
+<br/>
+Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) Intel SGX. 
 
 **Freelance Web Developer**
 
@@ -30,6 +30,7 @@ Worked on two frontend projects for two clients using AngularJS and bootstrap.
 **PySyft**
 
 "A library for answering questions using data you cannot see"
+<br/>
 A framework for privacy-preserving deep learning using Pytorch and Tensorflow.
 
 I worked on Pytorch development.
