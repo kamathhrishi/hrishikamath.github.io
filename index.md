@@ -38,11 +38,21 @@ Computer Vision library for human-computer interaction in **Python**
 <p style='text-align: justify;'>
 I have refactored certain parts of the library for improved usability and wrote test cases to ensure accurate functionality. Ported library to Python 3.0.
 </p>
-## Projects
+
+## Some Projects I am proud of
 
 For complete list of projects feel free to check my [Github Profile](https://github.com/kamathhrishi).
 
-#### Projects
+**Indoor Scene Recognition**
+Trained a 8 layer Convolutional neural network (CNN) from scratch using \textbf{Pytorch} in \textbf{Python} to recognize 67 different indoor scene categories from just 5400 images.Read classical CNN for Computer Vision papers and explored various architectures.
+
+**Exploratory Analysis of Amazon Unlocked Mobile Reviews**
+Analyzed a dataset of 400,000 reviews for relationship between brands ,
+pricing and ratings using **Seaborn** and **Pandas** in **Python**.
+
+**Indoor Scene Recognition**
+Trained a 30 layer Residual CNN from scratch which could predict 50 different species of animals with 72% accuracy and a ImageNet pretrained 18 layer network with 89% using **Pytorch**. Currently exploring Zero shot learning on the dataset.
+
 
 ## Contact
 Contact me on kamathhrishi [at] gmail <dot com>
