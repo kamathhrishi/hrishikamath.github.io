@@ -6,9 +6,9 @@ A proficient programmer in Java , Python and Javascript.
 <p style='text-align: justify;'>My interests are in Machine Learning , Privacy Preserving Machine Learning (PPML) and Software Engineering.</p>
 In PPML , I am specifically interested in Differential Privacy , Federated Learning and Trusted Execution Environments (TEE's). 
 <br/>
+<br/>
 Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
 <br/> 
-<br/>
 <br/>
 
 ## Experience
