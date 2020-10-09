@@ -4,7 +4,7 @@
 A proficient programmer in Java , Python and Javascript. 
 <br/>
 <p style='text-align: justify;'>My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering.</p>
-I am on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
+Available on [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
 <br/>
 <br/>
 ## Experience
