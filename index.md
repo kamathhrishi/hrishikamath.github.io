@@ -46,18 +46,19 @@ For complete list of projects feel free to check my [Github Profile](https://git
 **Indoor Scene Recognition**
 <br/>
 -Trained a 8 layer Convolutional neural network (CNN) from scratch using **Pytorch** in **Python** to recognize 67 different indoor scene categories from just 5400 images. 
--Read classical "CNN for Computer Vision" papers and explored various architectures.
+- Read classical "CNN for Computer Vision" papers and explored various architectures.
 
 #### Exploratory Analysis of Amazon Unlocked Mobile Reviews 
 <br/>
--Analyzed a dataset of 400,000 reviews for relationship between brands ,
-pricing and ratings using **Seaborn** and **Pandas** in **Python**.
+- Analyzed a dataset of 400,000 reviews for relationship between brands ,
+  pricing and ratings using **Seaborn** and **Pandas** in **Python**.
 
 #### Indoor Scene Recognition
 <br/>
 Supervised Learning
--Trained a 30 layer Residual CNN from scratch which could predict 50 different species of animals with 72% accuracy
--Finetuned a ImageNet pretrained 18 layer network to attain 89% accuracy 
+- Trained a 30 layer Residual CNN from scratch which could predict 50 different species of animals with 72% accuracy
+- Finetuned a ImageNet pretrained 18 layer network to attain 89% accuracy 
+<br/>
 Zero Shot Learning
 -Currently exploring Zero shot learning on the dataset. A naive implementation with Direct Attribute prediction attains 35% accuracy prediction unseen classes. 
 
