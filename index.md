@@ -48,5 +48,5 @@ See project DeepGaze
 ### Projects
 
 
-### Support or Contact
+## Contact
 Contact me on kamathhrishi @ gmail 
