@@ -6,7 +6,7 @@ A proficient programmer in Java , Python and Javascript.
 My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. 
 <br/>
 <br/>
-
+<br/>
 ## Experience
 
 #### Intern , Ederlabs (January 2020-Present)
@@ -16,6 +16,8 @@ Worked on privacy preserving machine learning using Trusted Execution Environmen
 
 #### Freelance Web Developer (July-October 2018)
 Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
+
+<br/>
 <br/>
 ## Open Source Contributions
 
