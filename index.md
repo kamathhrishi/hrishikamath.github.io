@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/kamathhrishi/hrishikamath.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I also finished high school in Bangalore from Delhi Public School Bangalore South. I am a proficient programmer in Java , Python and Javascript. My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. During my free time I read , work out and play Table Tennis. I plan to soon begin writing about things I have learnt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
