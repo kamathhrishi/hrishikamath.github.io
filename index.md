@@ -1,11 +1,10 @@
 <br/>
 <p style='text-align: justify;'>I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I am currently working in Ederlabs on privacy preserving learning.</p>
 
-I am on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
-
 A proficient programmer in Java , Python and Javascript. 
 <br/>
 <p style='text-align: justify;'>My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering.</p>
+I am on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
 <br/>
 <br/>
 ## Experience
