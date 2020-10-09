@@ -13,7 +13,6 @@ My interests are in Machine Learning ,Data Privacy (Differential Privacy and Fed
 <br/>
 <br/>
 
-
 ## Experience
 
 **Intern , Ederlabs (January 2020-Present)**
@@ -26,8 +25,6 @@ Worked on privacy preserving machine learning using Trusted Execution Environmen
 
 Worked on two frontend projects for two clients using AngularJS and bootstrap. 
 
-
-<br/>
 <br/>
 
 ## Open Source Contributions
