@@ -1,6 +1,3 @@
-## About Me
-
-
 
 I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I am currently working in Ederlabs on privacy preserving learning.
 
