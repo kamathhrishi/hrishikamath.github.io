@@ -62,7 +62,7 @@ For complete list of projects feel free to check my [Github Profile](https://git
 <br/>
 Analyzed a dataset of 400,000 reviews for relationship between brands ,pricing and ratings using **Seaborn** and **Pandas** in **Python**.
 
-**Indoor Scene Recognition**
+**Animals with Attributes**
 <br/>
 *Supervised Learning*
 <br/>
