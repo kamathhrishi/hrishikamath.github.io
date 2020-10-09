@@ -6,6 +6,16 @@ I am an Undergraduate student at RV College of Engineering , Bangalore studying 
 
 I am a proficient programmer in Java , Python and Javascript. My interests are in Machine Learning ,Data Privacy (Differential Privacy and Federated Learning) and Software Engineering. 
 
+## Experience
+
+- Intern , Ederlabs (January 2020-Present)
+
+Working on privacy preserving machine learning
+
+- Freelance Web Developer
+
+Worked on two frontend projects for two clients using AngularJS and bootstrap. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
