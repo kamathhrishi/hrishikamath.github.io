@@ -43,4 +43,4 @@ For complete list of projects feel free to check my [Github Profile](https://git
 #### Projects
 
 ## Contact
-Contact me on kamathhrishi @ gmail 
+Contact me on kamathhrishi <at> gmail <dot com>
