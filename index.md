@@ -59,7 +59,9 @@ Supervised Learning
 - Trained a 30 layer Residual CNN from scratch which could predict 50 different species of animals with 72% accuracy
 - Finetuned a ImageNet pretrained 18 layer network to attain 89% accuracy 
 <br/>
+<br/>
 Zero Shot Learning
+<br/>
 <br/>
 - Currently exploring Zero shot learning on the dataset. A naive implementation with Direct Attribute prediction attains 35% accuracy prediction unseen classes. 
 
