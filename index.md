@@ -27,10 +27,19 @@ Worked on two frontend projects for two clients using **AngularJS** and **Bootst
 "A library for answering questions using data you cannot see"
 <br/>
 A framework for privacy-preserving deep learning using Pytorch and Tensorflow.
-
+<br/>
 I worked on **Pytorch** development.
 Part of the Core team
 Contributed to Core PySyft Team
+<br/>
+The experience helped me learn a lot of software engineering practices such as unit tests, code reviews, Git, writing clean and documented code.
+<br/>
+- Wrote use cases of Federated Learning for developing Word Embeddings from Private Data and demonstration on CIFAR10
+- Wrote an implementation of Differential Privacy method Private Aggregation of Teacher Ensembles (PATE)
+- Tried working on Polynomial Tensor for non-linear computation in multiparty computation (MPC) setting. The method approximated non-linear computation using interpolation/Taylor series methods. Could not integrate it as part of Syft chain of tensors.
+- Refactored data loaders and federated dataset and wrote a tutorial on developing custom federated datasets
+- Type annotated the codebase and wrote documentation for parts of it
+
 
 #### Deepgaze
 Computer Vision library for human-computer interaction in **Python**
@@ -60,7 +69,7 @@ Analyzed a dataset of 400,000 reviews for relationship between brands ,pricing a
 - Trained a 30 layer Residual CNN from scratch which could predict 50 different species of animals with 72% accuracy
 - Finetuned a ImageNet pretrained 18 layer network to attain 89% accuracy 
 
-*Animals with Attributes*
+*Zero Shot Learning*
 <br/>
 
 - Currently exploring Zero shot learning on the dataset. A naive implementation with Direct Attribute prediction attains 35% accuracy prediction unseen classes. 
