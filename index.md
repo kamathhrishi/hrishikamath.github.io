@@ -19,7 +19,6 @@ Worked on privacy preserving machine learning using Trusted Execution Environmen
 Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
 <br/>
 <br/>
-<br/>
 ## Open Source Contributions
 
 #### PySyft
