@@ -16,7 +16,6 @@ Worked on privacy preserving machine learning using Trusted Execution Environmen
 
 #### Freelance Web Developer (July-October 2018)
 Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
-
 <br/>
 <br/>
 ## Open Source Contributions
