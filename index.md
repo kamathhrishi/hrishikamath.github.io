@@ -1,7 +1,7 @@
 <br/>
 <p style='text-align: justify;'>I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I am currently working in Ederlabs on privacy preserving learning.</p>
 
-I am on Twitter as *[kamathhrishi*](https://twitter.com/kamathhrishi) and on *[LinkedIn*](https://twitter.com/kamathhrishi).
+I am on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://twitter.com/kamathhrishi).
 
 A proficient programmer in Java , Python and Javascript. 
 <br/>
@@ -39,7 +39,7 @@ I have refactored certain parts of the library for improved usability and wrote 
 <br/>
 ## Projects
 
-For complete list of projects feel free to check my *[Github Profile*](https://twitter.com/kamathhrishi)Github Profile.
+For complete list of projects feel free to check my [Github Profile](https://twitter.com/kamathhrishi)Github Profile.
 
 #### Projects
 
