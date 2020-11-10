@@ -12,10 +12,12 @@ Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on 
 <br/>
 
 ## Experience
-#### Intern , Ederlabs  (January 2020-Present)
-Currently working on **Differential Privacy**. 
-<br/>
+
+#### Privacy AI Engineer , Ederlabs  (November 2020-Present)
 Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) **Intel SGX**. 
+
+#### Intern , Ederlabs  (January 2020-Present)
+Worked on **Differential Privacy** and **Intel SGX**
 
 #### Freelance Web Developer  (July-October 2018)
 Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
