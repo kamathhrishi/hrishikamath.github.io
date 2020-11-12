@@ -8,6 +8,7 @@ In PPML , I am specifically interested in Differential Privacy , Federated Learn
 <br/>
 <br/>
 Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
+<p>I <s>would like to</s> write <a href="kamathhrishi.github.io">Blogposts</a></p>
 <br/> 
 <br/>
 
