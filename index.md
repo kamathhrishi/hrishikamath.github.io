@@ -56,14 +56,23 @@ I have refactored certain parts of the library for improved usability and wrote 
 
 For complete list of projects feel free to check my [Github Profile](https://github.com/kamathhrishi).
 
-**Indoor Scene Recognition**
+**Privacy Preserving Pandas**
 <br/>
-- Trained a 8 layer Convolutional neural network (CNN) from scratch using **Pytorch** in **Python** to recognize 67 different indoor scene categories from just 5400 images. 
-- Read classical "CNN for Computer Vision" papers and explored various architectures.
+Coming Soon
 
-**Exploratory Analysis of Amazon Unlocked Mobile Reviews**
+**Indoor Scene Recognition with Visual Attributes**
 <br/>
-Analyzed a dataset of 400,000 reviews for relationship between brands ,pricing and ratings using **Seaborn** and **Pandas** in **Python**.
+- Trained a Residual Network to classify 67 different Indoor Scenes on MITIndoor 67, obtained 60% accuracy on the test dataset.
+- MITIndoor67 is a small dataset consisting of 5400 images, training a network directly on the dataset led to substantial overfitting. 
+- In order to learn finer features, a separate attribute prediction network was trained on SUN attribute database.
+- The predicted attributes are used to augment image features in the linear layers of the network scene recognition network.
+
+**Weakly Supervised Street View Text Detection**
+<br/>
+- Trained a character agnostic text detector on Chars74K dataset along with background images using Pytorch 
+- Used the classifier and sliding windows to annotate images in UCSD SVT and NEOCR dataset to derive bounding boxes 
+- Trained a street text localisation and detection Fully convolutional Network(FCN) on the weakly supervised labelled dataset 
+- Currently working on character level segmentation and recognition 
 
 **Animals with Attributes**
 <br/>
