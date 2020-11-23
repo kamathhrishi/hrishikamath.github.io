@@ -1,6 +1,5 @@
 <br/>
-<p style='text-align: justify;'>I am an Undergraduate student at RV College of Engineering , Bangalore studying Electrical and Electronics Engineering and expect to graduate in 2020. I am currently working in Ederlabs on privacy preserving Machine learning (PPML).</p>
-
+<p style='text-align: justify;'>I am currently working in Ederlabs on privacy preserving Machine learning (PPML).</p>
 A proficient programmer in Java , Python and Javascript. 
 <br/>
 <p style='text-align: justify;'>My interests are in Machine Learning , Privacy Preserving Machine Learning (PPML) and Software Engineering.</p>
@@ -10,7 +9,6 @@ In PPML , I am specifically interested in Differential Privacy , Federated Learn
 Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
 <p>I <s>would like to</s> write <a href="https://kamathhrishi.github.io/" target="_blank">Blogposts</a></p>
 <br/> 
-<br/>
 
 ## Experience
 
@@ -22,6 +20,7 @@ Worked on **Differential Privacy** and **Intel SGX**
 
 #### Freelance Web Developer  (July-October 2018)
 Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
+<br/>
 <br/>
 <br/>
 ## Open Source Contributions
@@ -51,6 +50,8 @@ Computer Vision library for human-computer interaction in **Python**
 <p style='text-align: justify;'>
 I have refactored certain parts of the library for improved usability and wrote test cases to ensure accurate functionality. Ported library to Python 3.0.
 </p>
+
+<br/>
 
 ## Some Projects I am proud of
 
@@ -86,6 +87,8 @@ Coming Soon
 <br/>
 
 - Currently exploring Zero shot learning on the dataset. A naive implementation with Direct Attribute prediction attains 35% accuracy prediction unseen classes. 
+
+<br/>
 
 ## Contact
 Contact me on kamathhrishi [at] gmail <dot com>
