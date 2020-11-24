@@ -1,5 +1,5 @@
 <br/>
-<p style='text-align: justify;'>I am currently working in Ederlabs on privacy preserving Machine learning (PPML).</p>
+<p style='text-align: justify;'>I currently work at Ederlabs on privacy preserving Machine learning (PPML).</p>
 A proficient programmer in Java , Python and Javascript. 
 <br/>
 <p style='text-align: justify;'>My interests are in Machine Learning , Privacy Preserving Machine Learning (PPML) and Software Engineering.</p>
