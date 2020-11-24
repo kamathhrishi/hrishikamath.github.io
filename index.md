@@ -70,9 +70,10 @@ Coming Soon
 
 **Weakly Supervised Street View Text Detection**
 <br/>
-- Trained a character agnostic text detector on Chars74K dataset along with background images using Pytorch 
+- Used Pytorch, OpenCV and Pillow in Python 
+- Trained a character agnostic text detector on Chars74K dataset along with background images using Alexnet model pre-trained on Imagenet
 - Used the classifier and sliding windows to annotate images in UCSD SVT and NEOCR dataset to derive bounding boxes 
-- Trained a street text localisation and detection Fully convolutional Network(FCN) on the weakly supervised labelled dataset 
+- Trained a street text localisation and detection Fully Convolutional Network(FCN) on the weakly supervised labelled dataset by using text detector’s starting CNN layers 
 - Currently working on character level segmentation and recognition 
 
 **Animals with Attributes**
