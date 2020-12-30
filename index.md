@@ -19,6 +19,7 @@ Worked on two frontend projects for two clients using **AngularJS** and **Bootst
 <br/>
 <br/>
 <br/>
+
 ## Open Source Contributions
 
 #### PySyft
