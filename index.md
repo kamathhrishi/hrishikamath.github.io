@@ -22,7 +22,7 @@ Worked on two frontend projects for two clients using **AngularJS** and **Bootst
 ## Open Source Contributions
 
 #### PySyft
-"A library for answering questions using data you cannot see"
+<em>"A library for answering questions using data you cannot see"</em>
 <br/>
 A framework for privacy-preserving deep learning using Pytorch and Tensorflow.
 <br/>
