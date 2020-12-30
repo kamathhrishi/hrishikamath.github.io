@@ -10,7 +10,7 @@ Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on 
 
 - #### Technical Mentor (Part-Time) , Openmined (Starting January 2021)
 
-Will be proving technical mentorship to those enrolling in the Private AI Series. 
+ Will be providing technical mentorship to those enrolling in the Private AI Series. 
 
 - #### Privacy AI Engineer , Ederlabs  (October 2020-Present)
 Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) **Intel SGX**. 
