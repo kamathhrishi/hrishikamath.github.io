@@ -15,8 +15,7 @@ Worked on privacy preserving machine learning using Trusted Execution Environmen
 Worked on **Differential Privacy** and **Intel SGX**
 
 - #### Freelance Web Developer  (July-October 2018)
-Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4**. 
-<br/>
+Worked on two frontend projects for two clients using **AngularJS** and **Bootstrap4** .
 <br/>
 <br/>
 
