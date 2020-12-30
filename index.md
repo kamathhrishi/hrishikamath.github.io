@@ -8,7 +8,7 @@ Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on 
 
 ## Experience
 
-- ### Technical Mentor (Part-Time) , Openmined (Starting January 2021)
+- #### Technical Mentor (Part-Time) , Openmined (Starting January 2021)
 
 Will be proving technical mentorship to those enrolling in the Private AI Series. 
 
