@@ -12,7 +12,7 @@ Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on 
 Will be providing technical mentorship to those enrolling in the <a href="https://courses.openmined.org/">Private AI Series</a>. 
 
 - #### Privacy AI Engineer , Ederlabs  (October 2020-Present)
-Worked on privacy preserving machine learning using Trusted Execution Environment(TEE) **Intel SGX**. 
+Working on privacy preserving machine learning using Trusted Execution Environment(TEE) **Intel SGX**. 
 
 - #### Intern , Ederlabs  (January 2020-September 2020)
 Worked on **Differential Privacy** and **Intel SGX**
