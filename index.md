@@ -1,6 +1,6 @@
 <br/>
 <p style='text-align: justify;'>I currently work at Ederlabs on privacy preserving Machine learning (PPML).</p>
-<p style='text-align: justify;'>My interests are in Machine Learning, Privacy Preserving Machine Learning (PPML) and Software Engineering.
+<p style='text-align: justify;'>My interests are in Machine Learning, Privacy Preserving Computations (PPC) and Software Engineering.
 In PPML , I am specifically interested in Differential Privacy, Federated Learning and Trusted Execution Environments (TEE's).</p>
 Available on Twitter as [kamathhrishi](https://twitter.com/kamathhrishi) and on [LinkedIn](https://www.linkedin.com/in/kamathhrishi/).
 <p>I <s>would like to</s> write <a href="https://kamathhrishi.github.io/" target="_blank">Blogposts</a></p>
@@ -53,9 +53,9 @@ I have refactored certain parts of the library for improved usability and wrote 
 
 For complete list of projects feel free to check my [Github Profile](https://github.com/kamathhrishi).
 
-**Privacy Preserving Pandas**
+**GreyNSights**
 <br/>
-Coming Soon
+Privacy Preserving Pandas
 
 **Indoor Scene Recognition with Visual Attributes**
 <br/>
